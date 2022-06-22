@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["6281393526422@s.whatsapp.net","6281393526422@s.whatsapp.net"],
+    "ownerName": "Renz",
+    "instagram" : "https://instagram.com/rendy_project123?igshid=YmMyMTA2M2Y=",
+    "botName": "RenzBot",
+    "footer": "© RenzBot",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
